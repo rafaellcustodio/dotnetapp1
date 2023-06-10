@@ -1,0 +1,15 @@
+/workspaces/universal/dotnetapp1/bin/Debug/net7.0/dotnetapp1
+/workspaces/universal/dotnetapp1/bin/Debug/net7.0/dotnetapp1.deps.json
+/workspaces/universal/dotnetapp1/bin/Debug/net7.0/dotnetapp1.runtimeconfig.json
+/workspaces/universal/dotnetapp1/bin/Debug/net7.0/dotnetapp1.dll
+/workspaces/universal/dotnetapp1/bin/Debug/net7.0/dotnetapp1.pdb
+/workspaces/universal/dotnetapp1/obj/Debug/net7.0/dotnetapp1.csproj.AssemblyReference.cache
+/workspaces/universal/dotnetapp1/obj/Debug/net7.0/dotnetapp1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/universal/dotnetapp1/obj/Debug/net7.0/dotnetapp1.AssemblyInfoInputs.cache
+/workspaces/universal/dotnetapp1/obj/Debug/net7.0/dotnetapp1.AssemblyInfo.cs
+/workspaces/universal/dotnetapp1/obj/Debug/net7.0/dotnetapp1.csproj.CoreCompileInputs.cache
+/workspaces/universal/dotnetapp1/obj/Debug/net7.0/dotnetapp1.dll
+/workspaces/universal/dotnetapp1/obj/Debug/net7.0/refint/dotnetapp1.dll
+/workspaces/universal/dotnetapp1/obj/Debug/net7.0/dotnetapp1.pdb
+/workspaces/universal/dotnetapp1/obj/Debug/net7.0/dotnetapp1.genruntimeconfig.cache
+/workspaces/universal/dotnetapp1/obj/Debug/net7.0/ref/dotnetapp1.dll
